@@ -1,0 +1,14 @@
+C:\Users\in2dam-b\Desktop\Reto Videoclub VB\RetoVideoclubVB\RetoVideoclub\bin\Debug\RetoVideoclub.exe.config
+C:\Users\in2dam-b\Desktop\Reto Videoclub VB\RetoVideoclubVB\RetoVideoclub\bin\Debug\RetoVideoclub.exe
+C:\Users\in2dam-b\Desktop\Reto Videoclub VB\RetoVideoclubVB\RetoVideoclub\bin\Debug\RetoVideoclub.pdb
+C:\Users\in2dam-b\Desktop\Reto Videoclub VB\RetoVideoclubVB\RetoVideoclub\bin\Debug\RetoVideoclub.xml
+C:\Users\in2dam-b\Desktop\Reto Videoclub VB\RetoVideoclubVB\RetoVideoclub\obj\Debug\RetoVideoclub.vbprojAssemblyReference.cache
+C:\Users\in2dam-b\Desktop\Reto Videoclub VB\RetoVideoclubVB\RetoVideoclub\obj\Debug\RetoVideoclub.frmMain.resources
+C:\Users\in2dam-b\Desktop\Reto Videoclub VB\RetoVideoclubVB\RetoVideoclub\obj\Debug\RetoVideoclub.Resources.resources
+C:\Users\in2dam-b\Desktop\Reto Videoclub VB\RetoVideoclubVB\RetoVideoclub\obj\Debug\RetoVideoclub.vbproj.GenerateResource.cache
+C:\Users\in2dam-b\Desktop\Reto Videoclub VB\RetoVideoclubVB\RetoVideoclub\obj\Debug\RetoVideoclub.vbproj.CoreCompileInputs.cache
+C:\Users\in2dam-b\Desktop\Reto Videoclub VB\RetoVideoclubVB\RetoVideoclub\obj\Debug\RetoVideoclub.exe
+C:\Users\in2dam-b\Desktop\Reto Videoclub VB\RetoVideoclubVB\RetoVideoclub\obj\Debug\RetoVideoclub.xml
+C:\Users\in2dam-b\Desktop\Reto Videoclub VB\RetoVideoclubVB\RetoVideoclub\obj\Debug\RetoVideoclub.pdb
+C:\Users\in2dam-b\Desktop\Reto Videoclub VB\RetoVideoclubVB\RetoVideoclub\obj\Debug\RetoVideoclub.frmClientes.resources
+C:\Users\in2dam-b\Desktop\Reto Videoclub VB\RetoVideoclubVB\RetoVideoclub\bin\Debug\EMPRESA.mdb
